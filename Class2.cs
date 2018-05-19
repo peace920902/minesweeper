@@ -9,19 +9,10 @@ namespace test_3
 {
     class Class2
     {
-        string bomb = "B";
+        char bomb = '\u25CF';
         Random ram = new Random();//呼叫ramdon方法
         public string[,] output;
-        public int[,] a;
-
-        bool flood_fill(int a)
-        {
-            if (a == 0)
-                return true;
-            else
-                return false;
-        }
-
+        public int[,] a;        
         public void addbomb(int len, int wid, int bombnum)//建立一個用來放置地雷的陣列方法
         {
             this.a = new int[len, wid];//陣列宣告
@@ -37,8 +28,6 @@ namespace test_3
             }
             //a[1, 1] = 9;
 
-            if (len * wid < bombnum)//如果炸彈數比格子多時
-                bombnum = bombnum - 10;
 
             for (int con = 0; con < bombnum; con++)//隨機放置炸彈
                 a[ram.Next(0, len), ram.Next(0, wid)] = 9;
@@ -75,8 +64,7 @@ namespace test_3
                 {
                     output[i, j] = Convert.ToString(a[i, j]);
                     if (output[i, j] == "9")
-                        output[i, j] = bomb;
-                    
+                        output[i, j] = bomb.ToString();                    
                 }
                 
             }

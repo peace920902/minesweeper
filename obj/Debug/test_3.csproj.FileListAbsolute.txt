@@ -1,0 +1,23 @@
+c:\users\user\documents\visual studio 2015\Projects\test_3\test_3\bin\Debug\test_3.exe.config
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\bin\Debug\test_3.exe
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\bin\Debug\test_3.pdb
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\obj\Debug\test_3.csprojResolveAssemblyReference.cache
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\obj\Debug\test_3.Properties.Resources.resources
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\obj\Debug\test_3.csproj.GenerateResource.Cache
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\obj\Debug\test_3.exe
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\obj\Debug\test_3.pdb
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\obj\Debug\test_3.Form1.resources
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\obj\Debug\test_3.Form2.resources
+C:\Users\User\documents\visual studio 2015\Projects\test_3\test_3\obj\Debug\test_3.Resource1.resources
+C:\Users\User\Documents\Projects\test_3\test_3\bin\Debug\test_3.exe.config
+C:\Users\User\Documents\Projects\test_3\test_3\bin\Debug\test_3.exe
+C:\Users\User\Documents\Projects\test_3\test_3\bin\Debug\test_3.pdb
+C:\Users\User\Documents\Projects\test_3\test_3\obj\Debug\test_3.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Projects\test_3\test_3\obj\Debug\test_3.Form1.resources
+C:\Users\User\Documents\Projects\test_3\test_3\obj\Debug\test_3.Form2.resources
+C:\Users\User\Documents\Projects\test_3\test_3\obj\Debug\test_3.Properties.Resources.resources
+C:\Users\User\Documents\Projects\test_3\test_3\obj\Debug\test_3.Resource1.resources
+C:\Users\User\Documents\Projects\test_3\test_3\obj\Debug\test_3.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Projects\test_3\test_3\obj\Debug\test_3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\Projects\test_3\test_3\obj\Debug\test_3.exe
+C:\Users\User\Documents\Projects\test_3\test_3\obj\Debug\test_3.pdb
